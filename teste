@@ -1,1 +1,24 @@
+    #include <stdio.h>
+
+    int main() {
+
+    int População = 100000;
+    float area = 1.000000;
+    float pib = 2.000000;
+    int Numero,De,Pontos,Turisticos = 30;
+
+    printf("População: %d pessoas\n", População);
+
+
+
+    
+
+
+
+
+
+
+
+
+    }
 
