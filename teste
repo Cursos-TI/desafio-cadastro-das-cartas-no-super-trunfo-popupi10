@@ -2,23 +2,22 @@
 
     int main() {
 
-    int População = 100000;
-    float area = 1.000000;
-    float pib = 2.000000;
-    int Numero,De,Pontos,Turisticos = 30;
+    int População;
+    int População2;
+    float area;
+    float area2;
 
-    printf("População: %d pessoas\n", População);
-
-
-
-    
-
-
-
+    printf("Digite a População: ");
+    scanf("%d", &População);
+    printf("A População é: %d\n", População);
+    printf("Digite a População2: ");
+    scanf("%d", &População2);
+    printf("A População2 é: %d\n", População2);
 
 
 
 
+    return 0;
 
-    }
+ }
 
